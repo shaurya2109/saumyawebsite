@@ -3397,6 +3397,13 @@ input, select, textarea {
 			text-align: center;
 		}
 
+		.hello {
+			font-size: 3rem;
+			font-style: italic;
+			margin-top: -0.25rem;
+			text-align: center;
+		}
+
 		#intro + #header {
 			margin-top: -20rem;
 		}
